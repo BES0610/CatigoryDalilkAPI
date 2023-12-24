@@ -1,12 +1,18 @@
 [   
     {
-        "HelwAlGama" : {
-            "Catigory1" : "بقاله"
-        }
+        "id" : 1,
+        "catigory" : "بقاله"
     },
     {
-        "AbnSmaak" : {
-            "Catigory1" : "بقاله"
-        }
+        "id" : 2,
+        "catigory" : "مطاعم"
+    },
+    {
+        "id" : 3,
+        "catigory" : "جزارين"
+    },
+    {
+        "id" : 4,
+        "catigory" : "عطارين"
     }
 ]
